@@ -1,1 +1,2 @@
 This is the original file content.
+Conflicting changes from branch_two
